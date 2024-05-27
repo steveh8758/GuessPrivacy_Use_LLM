@@ -1,4 +1,5 @@
 # GuessPrivacy_Use_LLM
+## [點我下載編譯好的檔案](https://github.com/steveh8758/GuessPrivacy_Use_LLM/releases/download/v1.0/GuessPrivacy_Use_LLM_Release.zip)
 ## 使用方法
 ### 導出 Line 對話紀錄
 ==請不要改導出的文字檔名，因為程式是以`[LINE]`作為選取文檔的依據==

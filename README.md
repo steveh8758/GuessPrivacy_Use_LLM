@@ -24,3 +24,8 @@
 
 ## Result
 ![image](pics/6.png)
+
+---
+
+## Ref
+[Beyond Memorization: Violating Privacy via Inference with Large Language Models](https://llm-privacy.org/)
